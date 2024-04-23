@@ -31,14 +31,14 @@ https://github.com/typicode/json-server#routes
 **🍞 Using:**
 
 ```
-https://tiny-blue-vulture-shoe.cyclic.app/<params>
+https://ffm-api.onrender.com/<params>
 ```
 
 **🍕 Examples:**
 
 ```js
 // Use fetch (Copy and paste to browser console to see result!)
-fetch('https://tiny-blue-vulture-shoe.cyclic.app/burgers')
+fetch('https://ffm-api.onrender.com/burgers')
   .then((response) => response.json())
   .then((data) => console.log(data));
 
